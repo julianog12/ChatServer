@@ -1,0 +1,15 @@
+D:\programas\dotnetapp\ChatServer\bin\Debug\net6.0\ChatServer.exe
+D:\programas\dotnetapp\ChatServer\bin\Debug\net6.0\ChatServer.deps.json
+D:\programas\dotnetapp\ChatServer\bin\Debug\net6.0\ChatServer.runtimeconfig.json
+D:\programas\dotnetapp\ChatServer\bin\Debug\net6.0\ChatServer.dll
+D:\programas\dotnetapp\ChatServer\bin\Debug\net6.0\ChatServer.pdb
+D:\programas\dotnetapp\ChatServer\obj\Debug\net6.0\ChatServer.csproj.AssemblyReference.cache
+D:\programas\dotnetapp\ChatServer\obj\Debug\net6.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\programas\dotnetapp\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfoInputs.cache
+D:\programas\dotnetapp\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfo.cs
+D:\programas\dotnetapp\ChatServer\obj\Debug\net6.0\ChatServer.csproj.CoreCompileInputs.cache
+D:\programas\dotnetapp\ChatServer\obj\Debug\net6.0\ChatServer.dll
+D:\programas\dotnetapp\ChatServer\obj\Debug\net6.0\refint\ChatServer.dll
+D:\programas\dotnetapp\ChatServer\obj\Debug\net6.0\ChatServer.pdb
+D:\programas\dotnetapp\ChatServer\obj\Debug\net6.0\ChatServer.genruntimeconfig.cache
+D:\programas\dotnetapp\ChatServer\obj\Debug\net6.0\ref\ChatServer.dll
